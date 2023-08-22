@@ -13,7 +13,7 @@ INSERT INTO store VALUES (9, "steak", "meat", 8.99, 75);
 INSERT INTO store VALUES (10, "green beans", "frozen", 0.69, 25);
 INSERT INTO store VALUES (11, "mixed vegetables", "frozen", 1.89, 33);
 INSERT INTO store VALUES (12, "rolled oats", "bulk", 1.99, 80);
-INSERT INTO store VALUES (13, "melatonin", "health", 5.99,29);
+INSERT INTO store VALUES (13, "melatonin", "health", 5.99, 29);
 INSERT INTO store VALUES (14, "vitamin D", "health", 9.99, 26);
 INSERT INTO store VALUES (15, "potato chip", "snacks", 2.99, 47);
 
